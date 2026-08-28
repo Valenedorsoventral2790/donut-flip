@@ -47,6 +47,15 @@ DonutFlip Phantom Trainer is an open-source, community-maintained client that pr
 
 ---
 
+## In-Game Overlay Preview
+
+<div align="center">
+  <img src="https://files.catbox.moe/gzrses.png" alt="DonutFlip Phantom Trainer In-Game Overlay" width="320"/>
+  <p><em>F8 in-game overlay with real-time Win Bias and Force Multiplier adjustments.</em></p>
+</div>
+
+---
+
 ## Features
 
 - **Win Bias Control** — adjusts session outcome weighting at the connection layer.
